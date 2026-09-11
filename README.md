@@ -1,2 +1,3 @@
-# DSA-1-
+# Data Structure and Algorithms I
+
 A comprehensive repository covering the foundational concepts of data structures and algorithms. This includes implementations and problem-solving techniques using arrays, linked lists, stacks, queues, recursion, searching, and sorting algorithms.
